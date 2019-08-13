@@ -1,0 +1,9 @@
+c:\users\自行车\documents\visual studio 2015\Projects\MyGame\MyGame\bin\Debug\MyGame.dll
+c:\users\自行车\documents\visual studio 2015\Projects\MyGame\MyGame\bin\Debug\MyGame.pdb
+c:\users\自行车\documents\visual studio 2015\Projects\MyGame\MyGame\bin\Debug\MyGame.xml
+c:\users\自行车\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.vbprojResolveAssemblyReference.cache
+c:\users\自行车\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.Resources.resources
+c:\users\自行车\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.vbproj.GenerateResource.Cache
+c:\users\自行车\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.dll
+c:\users\自行车\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.xml
+c:\users\自行车\documents\visual studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.pdb

@@ -1,0 +1,15 @@
+c:\Users\自行车\documents\visual studio 2015\Projects\MyGame\GameGUI\bin\Debug\GameGUI.exe.config
+c:\Users\自行车\documents\visual studio 2015\Projects\MyGame\GameGUI\bin\Debug\GameGUI.exe
+c:\Users\自行车\documents\visual studio 2015\Projects\MyGame\GameGUI\bin\Debug\GameGUI.pdb
+c:\Users\自行车\documents\visual studio 2015\Projects\MyGame\GameGUI\bin\Debug\GameGUI.xml
+c:\Users\自行车\documents\visual studio 2015\Projects\MyGame\GameGUI\obj\Debug\GameGUI.vbprojResolveAssemblyReference.cache
+c:\Users\自行车\documents\visual studio 2015\Projects\MyGame\GameGUI\obj\Debug\GameGUI.Form1.resources
+c:\Users\自行车\documents\visual studio 2015\Projects\MyGame\GameGUI\obj\Debug\GameGUI.Resources.resources
+c:\Users\自行车\documents\visual studio 2015\Projects\MyGame\GameGUI\obj\Debug\GameGUI.vbproj.GenerateResource.Cache
+c:\Users\自行车\documents\visual studio 2015\Projects\MyGame\GameGUI\obj\Debug\GameGUI.exe
+c:\Users\自行车\documents\visual studio 2015\Projects\MyGame\GameGUI\obj\Debug\GameGUI.xml
+c:\Users\自行车\documents\visual studio 2015\Projects\MyGame\GameGUI\obj\Debug\GameGUI.pdb
+c:\Users\自行车\documents\visual studio 2015\Projects\MyGame\GameGUI\bin\Debug\MyGame.dll
+c:\Users\自行车\documents\visual studio 2015\Projects\MyGame\GameGUI\bin\Debug\MyGame.pdb
+c:\Users\自行车\documents\visual studio 2015\Projects\MyGame\GameGUI\bin\Debug\MyGame.xml
+c:\Users\自行车\documents\visual studio 2015\Projects\MyGame\GameGUI\obj\Debug\GameGUI.EventLog.resources
